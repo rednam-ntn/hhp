@@ -1,6 +1,6 @@
-# __HEALTH HERITAGE PRIZE REPORT__
+# __HERITAGE HEALTH PRIZE REPORT__
 
-- [__HEALTH HERITAGE PRIZE REPORT__](#health-heritage-prize-report)
+- [__HERITAGE HEALTH PRIZE REPORT__](#heritage-health-prize-report)
   - [__1. Author__](#1-author)
   - [__2. Project Description__](#2-project-description)
   - [__3. Model Selection__](#3-model-selection)
@@ -41,7 +41,7 @@ This project is part of VEF Academy Machine Learning Course of Winter 2018 and a
 
 ## __2. Project Description__
 
-Health Heritage Prize (HHP) is a Kaggle challenge held in 2012 with the best score is 0.466 Root mean square logarithmic error (RMSLE). The HHP dataset is included 3 years claims of insurance payment record in US hospital with several patient health information categories. HHP challenge purpose is predicting days a patient will spend in the hospital in the next year base on claims data of the year before.
+Heritage Health Prize (HHP) is a Kaggle challenge held in 2012 with the best score is 0.466 Root mean square logarithmic error (RMSLE). The HHP dataset is included 3 years claims of insurance payment record in US hospital with several patient health information categories. HHP challenge purpose is predicting days a patient will spend in the hospital in the next year base on claims data of the year before.
 
 In this project, dataset is used from HHP dataset release 3, include 3 years claims, Days in hospital of year 2, 3, patient personal information, Drug count and Lab count of claims.
 
