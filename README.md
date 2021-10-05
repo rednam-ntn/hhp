@@ -37,7 +37,7 @@
 
 ## __1. Author__
 
-This project is part of VEF Academy Machine Learning Course of Winter 2018 and all done by __Nguyen Thai Nam__, Group 13.
+This project is part of VEF Academy Machine Learning Course of Winter 2018 and all done by me.
 
 ## __2. Project Description__
 
